@@ -12,4 +12,6 @@ Liste des fichiers :
 
 - memPupille.R   : script R contenant la onction d'évaluation a minimiser
 
-- raport/		 : dossier contenant les fichiers de rapport ( format pdf et odt ) 
+- result/        : dossier contenant les differents resultats
+
+- rapport/		 : dossier contenant les fichiers de rapport ( format pdf et odt ) 
